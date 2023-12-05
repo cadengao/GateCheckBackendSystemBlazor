@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GateCheckBackendSystemBlazor", "GateCheckBackendSystemBlazor\GateCheckBackendSystemBlazor.csproj", "{1187960E-11D7-4912-9B40-AFB940DA510C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GateCheckBackendSystemBlazor.Client", "GateCheckBackendSystemBlazor.Client\GateCheckBackendSystemBlazor.Client.csproj", "{6A0FF76D-C4CD-4D72-B4BD-AC6FA30B25CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1187960E-11D7-4912-9B40-AFB940DA510C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1187960E-11D7-4912-9B40-AFB940DA510C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1187960E-11D7-4912-9B40-AFB940DA510C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1187960E-11D7-4912-9B40-AFB940DA510C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A0FF76D-C4CD-4D72-B4BD-AC6FA30B25CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0FF76D-C4CD-4D72-B4BD-AC6FA30B25CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A0FF76D-C4CD-4D72-B4BD-AC6FA30B25CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A0FF76D-C4CD-4D72-B4BD-AC6FA30B25CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25F880C1-7873-4A96-AC73-1D51C2412F3F}
+	EndGlobalSection
+EndGlobal
